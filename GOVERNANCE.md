@@ -68,11 +68,18 @@ of new Collaborators to such projects, ensuring there's a path to keep it mainta
 without making any promises.
 
 All project npm modules should be owned (and solely owned) by the `eslint-community-bot`
-user on npm and automatic releases should be set up by the Core Team using the organization
-secret in the GitHub organization.
+user on npm. If the npm modules are owned by an existing organisation and using its prefix,
+then the `eslint-community-bot` should become the sole owner of that organisation.
 
 Additional assets such as domain names, web sites etc should also be in control of the
 Core Team and/or the ESLint TSC.
+
+If possible, a project should always be transfered and keep using its original npm module
+name and repository. If a new module name needs to be created, it should preferably be
+`@eslint-community/<the-old-name>`.
+
+Automatic releases of the modules should be set up by the Core Team using the organization
+secret in the GitHub organization.
 
 Auxiliary projects can can be nominated to become a primary project by its Collaborators,
 by opening a private team discussion [on GitHub](https://github.com/eslint-community/collaborators/discussions).
