@@ -114,7 +114,7 @@ The project should:
 The project should also:
 
 * be widely depended upon throughout the community (eg. 3M downloads/week or similar)
-* have an OSI-approved license (preferably same as ESLint itself: MIT)
+* have an OSI-approved license (preferably Apache 2.0, else MIT-style)
 * have proposed Collaborators or have possibility to be deemed a Primary project
   by the Core Team
 
