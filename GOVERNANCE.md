@@ -15,6 +15,9 @@ with `admin` access to repositories within the organization.
 
 The Core Team are the only members of the `@eslint-community/core-team` team.
 
+The Core Team and ESLint TSC have a shared `#community-team` chat room, in the ESLint
+Discord, to communicate with one another.
+
 ## ESLint TSC
 
 The ESLint TSC are the ultimate caretakers of the ESLint-Community, appoints the Core
@@ -25,6 +28,9 @@ The Core Team are together with the ESLint TSC the organization owners and only 
 with `admin` access to repositories within the organization.
 
 The ESLint TSC are the only members of the `@eslint-community/eslint-tsc` team.
+
+The Core Team and ESLint TSC have a shared `#community-team` chat room, in the ESLint
+Discord, to communicate with one another.
 
 ## Collaborators
 
@@ -42,6 +48,8 @@ Both Collaborators and non-Collaborators may propose changes to the source code
 of the projects of the organization. The mechanism to propose such a change is a
 GitHub pull request. Collaborators review and merge (_land_) pull requests
 following the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
+
+Collaborators can communicate in private with the Core Team [on GitHub](https://github.com/eslint-community/collaborators/discussions).
 
 ### Collaborator activities
 
