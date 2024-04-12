@@ -115,11 +115,11 @@ The project should also:
 * have proposed Collaborators or have possibility to be deemed a Primary project
   by the Core Team
 
-If project currentlu has an active maintainer it should be transfered and then:
+If project currently has an active maintainer it should be transfered and then:
 
 * the current maintainer should be willing to transfer the project to ESLint-Community
 
-If its an abandoned project that needs to be forked:
+If it's an abandoned project that needs to be forked:
 
 * It shouldn't have received an update in a substantial amount of time (eg. last 6 months)
   or it should present a major obstacle to the adoption of eg. a new major version of ESLint

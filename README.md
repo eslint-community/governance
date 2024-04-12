@@ -1,4 +1,4 @@
-# Eslint-Community Governance
+# ESLint-Community Governance
 
 ## Purpose
 
