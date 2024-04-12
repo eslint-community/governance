@@ -8,7 +8,7 @@ and to help out in offering a base level maintenance for all primary projects wi
 the organization.
 
 The Core Team should have occasional meetings to discuss the project, with meeting minutes
-being added to [eslint-community/governance](https://github.com/eslint-community/governance).
+being added to [eslint-community/governance][].
 
 The Core Team are together with the ESLint TSC the organization owners and the only ones
 with `admin` access to repositories within the organization.
@@ -49,7 +49,8 @@ of the projects of the organization. The mechanism to propose such a change is a
 GitHub pull request. Collaborators review and merge (_land_) pull requests
 following the [CONTRIBUTING](CONTRIBUTING.md) guidelines.
 
-Collaborators can communicate in private with the Core Team [on GitHub](https://github.com/eslint-community/collaborators/discussions).
+Collaborators can communicate in private with the Core Team in
+[private team discussion on GitHub][].
 
 ### Collaborator activities
 
@@ -90,7 +91,7 @@ Automatic releases of the modules should be set up by the Core Team using the or
 secret in the GitHub organization.
 
 Auxiliary projects can can be nominated to become a primary project by its Collaborators,
-by opening a private team discussion [on GitHub](https://github.com/eslint-community/collaborators/discussions).
+by opening a [private team discussion on GitHub][].
 
 If a primary project is no longer widely depended upon, or have technical reasons to no
 longer stay a primary project, the Core Team can decide to convert it into an auxiliary
@@ -99,7 +100,9 @@ project in discussion with its Collaborators.
 ## Project nominations
 
 Projects that are widely depended upon within the ESLint ecosystem may be nominated to
-become ESLint-Community projects by anyone by opening a public issue [on GitHub](https://github.com/eslint-community/governance).
+become ESLint-Community projects by anyone by opening a public issue on GitHub in the
+[eslint-community/governance][] repository.
+
 The project should fulfill a few criterias:
 
 The project should:
@@ -133,7 +136,7 @@ Projects should typically start out with a status of "auxiliary".
 Individuals making significant and valuable contributions to a project may be
 a candidate to join the ESLint-Community organization and that team.
 
-An existing Collaborator needs to open a private team discussion [on GitHub](https://github.com/eslint-community/collaborators/discussions) and
+An existing Collaborator needs to open a [private team discussion on GitHub][] and
 list the candidates they want to sponsor with a link to the user's contributions. For
 example:
 
@@ -161,8 +164,8 @@ The ESLint TSC can appoint and revoke Core Team members at their own discretion.
 
 ## Consensus seeking process
 
-The ESLint Community follows a Lazy [Consensus Seeking]() decision-making model,
-inspired by the [ASF]().
+The ESLint Community follows a Lazy [Consensus Seeking][] decision-making model,
+inspired by the [ASF][].
 
 _Lazy_ means that silence is consent if an appropriate amount of time has passed
 (most of the time: at least a week) since the suggestion was made and no objections
@@ -192,3 +195,7 @@ such decisions.
     https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [ASF]:
     https://community.apache.org/committers/decisionMaking.html
+[eslint-community/governance]:
+    https://github.com/eslint-community/governance
+[private team discussion on GitHub]:
+    https://github.com/eslint-community/collaborators/discussions
