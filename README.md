@@ -27,12 +27,12 @@ See [GOVERNANCE.md](./GOVERNANCE.md)
 * [eslint-plugin-promise](https://github.com/eslint-community/eslint-plugin-promise) (Collaborators: [@xjamundx](https://github.com/xjamundx), [@bmish](https://github.com/bmish))
 * [eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) (Collaborators: [@nzakas](https://github.com/nzakas), [@nlf](https://github.com/nlf))
 * [eslint-utils](https://github.com/eslint-community/eslint-utils) (Collaborators: )
-* [eslint-formatter-codeframe](https://github.com/eslint-community/) (Collaborators: )
-* [eslint-formatter-table](https://github.com/eslint-community/) (Collaborators: )
-* [eslint-plugin-mysticatea](https://github.com/eslint-community/) (Collaborators: )
-* [regexpp](https://github.com/eslint-community/) (Collaborators: )
+* [eslint-formatter-codeframe](https://github.com/eslint-community/eslint-formatter-codeframe) (Collaborators: )
+* [eslint-formatter-table](https://github.com/eslint-community/eslint-formatter-table) (Collaborators: )
+* [eslint-plugin-mysticatea](https://github.com/eslint-community/eslint-plugin-mysticatea) (Collaborators: )
+* [regexpp](https://github.com/eslint-community/regexpp) (Collaborators: )
 
 ### Auxiliary projects
 
-* [eslint-stylistic](https://github.com/eslint-community/)  (Collaborators: [@Shinigami92](https://github.com/Shinigami92), [@antfu](https://github.com/antfu), [@kecrily](https://github.com/kecrily))
-  * [eslint-stylistic-repro-template](https://github.com/eslint-community/)
+* [eslint-stylistic](https://github.com/eslint-community/eslint-stylistic)  (Collaborators: [@Shinigami92](https://github.com/Shinigami92), [@antfu](https://github.com/antfu), [@kecrily](https://github.com/kecrily))
+  * [eslint-stylistic-repro-template](https://github.com/eslint-community/eslint-stylistic-repro-template)
