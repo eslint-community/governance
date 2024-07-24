@@ -15,8 +15,8 @@ with `admin` access to repositories within the organization.
 
 The Core Team are the only members of the `@eslint-community/core-team` team.
 
-The Core Team and ESLint TSC have a shared `#community-team` chat room, in the ESLint
-Discord, to communicate with one another.
+The Core Team and ESLint TSC have a shared `#community-team` chat room, in the [ESLint
+Discord](https://eslint.org/chat/eslint-community), to communicate with one another.
 
 ## ESLint TSC
 
